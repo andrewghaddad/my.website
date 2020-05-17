@@ -1,2 +1,2 @@
 # my-website
- This is my offical personl and profrssional website
+ This is my official personal and professional website.
